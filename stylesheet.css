@@ -1,0 +1,27 @@
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.section {
+    width:600px;
+    height:fit-content;
+    background-color: aquamarine;
+    border: 2px solid black;
+
+}
+
+#image-description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+#google-link:hover {
+  
+    color:red;
+}
+
